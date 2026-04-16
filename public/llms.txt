@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מחפשים השראה למטבח? אתר מה אוכלים היום? מביא לכם מתכונים מגוונים לבשר, עוף, דגים, קינוחים ותוספות. הגיע הזמן לבשל משהו מדהים!
+
+### קטגוריות מתכונים
+https://example.com/categories
+קטגוריות מתכונים לכל טעם וכל אירוע: מתכוני בשר לשבת, עוף, דגים, קינוחים ועוד. גלו את המתכון המושלם שחיכיתם לו וצאו לבשל עכשיו!
+
+### אודות
+https://example.com/about
+רוצים לדעת מי עומד מאחורי אתר מה אוכלים היום?? היכנסו לדף האודות וגלו את הסיפור, הערכים והאהבה הגדולה לאוכל שמניעים אותנו לפרסם מתכונים בכל יום!
+
+### צור קשר
+https://example.com/contact
+רוצים לשתף מתכון, לשאול שאלה או סתם להגיד שלום? דף צור קשר של מה אוכלים היום? פתוח עבורכם. נשמח לשמוע מכם ולהפוך את המטבח שלכם לעוד יותר טעים!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
